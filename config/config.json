@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "pernblog_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "pernblog_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "database": "pernblog_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
